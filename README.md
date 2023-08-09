@@ -9,4 +9,4 @@
 
 - 🌱 Estou aprendendo atualmente C#/ Angular<br>
 - ⚡ Fato engraçado: Eu tenho um irmão gêmeo e acho bem engraçado que ele também trabalha com desenvolvimento.
-![octocat-1691613781826](https://github.com/Exacttime/Exacttime/assets/112515202/3655eda6-6650-42e3-ae72-93874753b939)
+  
