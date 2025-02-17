@@ -32,10 +32,5 @@
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-000?style=for-the-badge&logo=msazure&logoColor=C3002F_)
 ## Contato | Contact
 
-<a href="https://www.linkedin.com/in/erick-oliveira-lopes/" target="_blank" rel="noopener noreferrer">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/erick.olivlopes" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" alt="Instagram">
-</a>
-
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/erick-oliveira-lopes/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/erick.olivlopes)
