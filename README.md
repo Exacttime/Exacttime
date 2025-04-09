@@ -1,7 +1,6 @@
 ### Prazer, Erick sou de BR/MG, desenvolvedor de software fullstack;
 ### Hello, I'm Erick from MG/BR, and I'm a fullstack software developer;
 
-<a href= https://github.com/leonardolemie/clean-code-java>Clean Code Java</a>
 
 <a href="https://github-readme-stats.vercel.app/api?username=Exacttime">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Exacttime&theme=dark&show_icons=true" />
